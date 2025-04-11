@@ -12,7 +12,10 @@ body {
     font-family: 'Montserrat';
     background-color: #000000;
     
-    
+.p-2{
+    background-color: #F1EDEF;
+
+}
 
 }
 
