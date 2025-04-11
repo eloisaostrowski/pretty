@@ -13,7 +13,7 @@ body {
     background-color: #000000;
     
 .p-2{
-    background-color: #F1EDEF;
+    --branco: #F1EDEF;
 
 }
 
